@@ -2,7 +2,7 @@
 
 # Southern Poverty Law Centre Consolidated Data 2000 - 2019
 
-This repo contains consolidated data from the [Southern Poverty Law Centre](https://www.splcenter.org/)'s [Hatewatch](https://www.splcenter.org/hatewatch) monitoring programme in the United States. If you use this data for a project, please consider donating to the SPLC [here](https://donate.splcenter.org/) to support their work.
+This repo contains consolidated data from the [Southern Poverty Law Centre](https://www.splcenter.org/)'s [Hatewatch](https://www.splcenter.org/hatewatch) monitoring programme in the United States. If you use this data for a project, please consider donating to the SPLC [here](https://donate.splcenter.org/) to support their work. All data rights are owned by the Southern Poverty Law Centre.
 
 ## Organisational Background
 
